@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://standura.github.io/sitemap.html.gz
+Sitemap: https://standura.github.io/app/sitemap.html.gz
+Sitemap: https://standura.github.io/assets/sitemap.html.gz
+Sitemap: https://standura.github.io/css/sitemap.html.gz
+Sitemap: https://standura.github.io/includes/sitemap.html.gz
+Sitemap: https://standura.github.io/item/sitemap.html.gz
+Sitemap: https://standura.github.io/src/sitemap.html.gz
